@@ -1,1 +1,2 @@
 Linux is becoming useful
+Git practice started
